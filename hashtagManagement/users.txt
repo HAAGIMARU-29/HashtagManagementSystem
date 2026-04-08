@@ -1,0 +1,5 @@
+A, B@gmail.com, 1234, Engineer
+BINGO, c@gmail.com, 5678, surgeon
+D, D@gmail.com, 2345, ji
+Pragati , garg@gmail.com, roar, Baniya
+bf, pg29@gmail.com, 1234, HI! i love this duniya...
