@@ -1,4 +1,4 @@
-# 📌 Hashtag Management System (Java OOP Project)
+# 📌 Hashtag Tracking and management System (Java OOP Project)
 
 ## 🚀 Overview
 
